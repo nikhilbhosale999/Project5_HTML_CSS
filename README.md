@@ -10,7 +10,7 @@ While working on this project I learn about -
 -  How to position item in center of page
 
 
-### Time Taken - 2.5 hr
+### Time Taken - 2 hr
 
 ![Completed Website](./Completed.png)
 ## For Live Website Link - [Click here](https://codecolt-project5.netlify.app)
